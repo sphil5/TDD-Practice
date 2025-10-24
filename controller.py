@@ -1,4 +1,4 @@
-class Item:
+class Item():
   def __innit__ (self, name):
     self.name(name) = "milk"
 
